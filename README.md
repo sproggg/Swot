@@ -1,0 +1,2 @@
+# Swot
+Website for school
